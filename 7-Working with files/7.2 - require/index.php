@@ -3,11 +3,8 @@
 <body>
 
 <?php
-
-$test = true;
-echo "$test";
-
+include 'includes/menu.php';
 ?>
 
 </body>
-</html> 
+</html>

@@ -4,8 +4,8 @@
 
 <?php
 
-$test = true;
-echo "$test";
+$naam = "Tom";
+echo gettype($naam);
 
 ?>
 

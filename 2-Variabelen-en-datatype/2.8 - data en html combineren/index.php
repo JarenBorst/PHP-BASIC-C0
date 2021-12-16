@@ -4,8 +4,7 @@
 
 <?php
 
-$test = true;
-echo "$test";
+echo "<li>Aydin</li><li>Chahid</li><li>Mo</li>"
 
 ?>
 
